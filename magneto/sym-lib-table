@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Valve_Controller_Schematic-rescue)(type Legacy)(uri ${KIPRJMOD}/Valve_Controller_Schematic-rescue.lib)(options "")(descr ""))
+)
